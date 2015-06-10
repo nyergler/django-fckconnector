@@ -1,0 +1,2 @@
+FCKeditor is a Javascript-based rich text editor for web applications. One of the enhanced features it offers is a web-based browser for media files stored on the server. The browser relies on a server-side connector to provide XML responses for commands. FCKeditor includes connectors for many server-side technologies, including a Python CGI implementation. However, when using FCKeditor in a Django application, it is desirable to implement the connector within the Django process. This project provides a Django-based implementation of the FCKeditor server side specification.
+
